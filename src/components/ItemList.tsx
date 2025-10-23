@@ -31,3 +31,5 @@ const ItemList: React.FC<Props> = ({ items, onEdit, onDelete }) => {
         </table>
     );
 }
+
+export default ItemList;
